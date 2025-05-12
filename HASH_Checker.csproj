@@ -7,7 +7,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <ApplicationIcon>SolarPH_Icon.ico</ApplicationIcon>
-    <Version>1.0.0</Version>
+    <Version>1.0.0.1</Version>
     <Company>SolarPH / MARCsystems</Company>
     <Product>MARCsystems: Hash Code Checker Tool</Product>
     <AssemblyTitle>A simple Hash Code checking tool. Supports MD5, SHA1, SHA256 and SHA512</AssemblyTitle>

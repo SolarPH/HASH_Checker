@@ -17,7 +17,7 @@ namespace HASH_Checker
             }
             else
             {
-                return HsvToRgb(((Convert.ToDouble(intWeight)) / Convert.ToDouble(maxWeight)) * 360, 100, 100);
+                return HsvToRgb((Convert.ToDouble(intWeight) * (1 / Convert.ToDouble(maxWeight))) * 360, 100, 100);
             }
         }
         

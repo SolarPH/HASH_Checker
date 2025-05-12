@@ -1,4 +1,3 @@
-
 namespace HASH_Checker
 {
     internal partial class HashReaderForm : Form
@@ -8,6 +7,8 @@ namespace HASH_Checker
             InitializeComponent();
             cmb_HashType.DataSource = Enum.GetValues(typeof(HashType));
             cmb_HashType.SelectedIndex = 2;
+
+            Text = $"MARCsystems: Hash Code Checker Tool v{AppVersionReader.VersionString}";
         }
 
         private void addRow(HashObject hashObject)

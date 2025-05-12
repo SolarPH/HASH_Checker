@@ -13,11 +13,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("SolarPH / MARCsystems")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b557d436323e63f7ab89fd2e7ebb6c3c90320d0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.1+ea5b0c0a44464a83cc68259bddd09c9761f57887")]
 [assembly: System.Reflection.AssemblyProductAttribute("MARCsystems: Hash Code Checker Tool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A simple Hash Code checking tool. Supports MD5, SHA1, SHA256 and SHA512")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.1")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
