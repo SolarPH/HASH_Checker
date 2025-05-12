@@ -1,0 +1,17 @@
+D:\Programming Projects\HASH_Checker\bin\Release\net8.0-windows\HASH_Checker.exe
+D:\Programming Projects\HASH_Checker\bin\Release\net8.0-windows\HASH_Checker.deps.json
+D:\Programming Projects\HASH_Checker\bin\Release\net8.0-windows\HASH_Checker.runtimeconfig.json
+D:\Programming Projects\HASH_Checker\bin\Release\net8.0-windows\HASH_Checker.dll
+D:\Programming Projects\HASH_Checker\bin\Release\net8.0-windows\HASH_Checker.pdb
+D:\Programming Projects\HASH_Checker\obj\Release\net8.0-windows\HASH_Checker.HashReaderForm.resources
+D:\Programming Projects\HASH_Checker\obj\Release\net8.0-windows\HASH_Checker.csproj.GenerateResource.cache
+D:\Programming Projects\HASH_Checker\obj\Release\net8.0-windows\HASH_Checker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\HASH_Checker\obj\Release\net8.0-windows\HASH_Checker.AssemblyInfoInputs.cache
+D:\Programming Projects\HASH_Checker\obj\Release\net8.0-windows\HASH_Checker.AssemblyInfo.cs
+D:\Programming Projects\HASH_Checker\obj\Release\net8.0-windows\HASH_Checker.csproj.CoreCompileInputs.cache
+D:\Programming Projects\HASH_Checker\obj\Release\net8.0-windows\HASH_Checker.sourcelink.json
+D:\Programming Projects\HASH_Checker\obj\Release\net8.0-windows\HASH_Checker.dll
+D:\Programming Projects\HASH_Checker\obj\Release\net8.0-windows\refint\HASH_Checker.dll
+D:\Programming Projects\HASH_Checker\obj\Release\net8.0-windows\HASH_Checker.pdb
+D:\Programming Projects\HASH_Checker\obj\Release\net8.0-windows\HASH_Checker.genruntimeconfig.cache
+D:\Programming Projects\HASH_Checker\obj\Release\net8.0-windows\ref\HASH_Checker.dll

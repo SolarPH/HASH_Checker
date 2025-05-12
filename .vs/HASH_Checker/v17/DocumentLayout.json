@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming Projects\\HASH_Checker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AADE2B12-308B-4EEA-BB77-762361582BB5}|HASH_Checker.csproj|d:\\programming projects\\hash_checker\\hashobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADE2B12-308B-4EEA-BB77-762361582BB5}|HASH_Checker.csproj|solutionrelative:hashobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADE2B12-308B-4EEA-BB77-762361582BB5}|HASH_Checker.csproj|d:\\programming projects\\hash_checker\\hashreaderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADE2B12-308B-4EEA-BB77-762361582BB5}|HASH_Checker.csproj|solutionrelative:hashreaderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADE2B12-308B-4EEA-BB77-762361582BB5}|HASH_Checker.csproj|d:\\programming projects\\hash_checker\\hash_checker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AADE2B12-308B-4EEA-BB77-762361582BB5}|HASH_Checker.csproj|solutionrelative:hash_checker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADE2B12-308B-4EEA-BB77-762361582BB5}|HASH_Checker.csproj|d:\\programming projects\\hash_checker\\hashreaderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AADE2B12-308B-4EEA-BB77-762361582BB5}|HASH_Checker.csproj|solutionrelative:hashreaderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADE2B12-308B-4EEA-BB77-762361582BB5}|HASH_Checker.csproj|d:\\programming projects\\hash_checker\\hashreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADE2B12-308B-4EEA-BB77-762361582BB5}|HASH_Checker.csproj|solutionrelative:hashreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADE2B12-308B-4EEA-BB77-762361582BB5}|HASH_Checker.csproj|d:\\programming projects\\hash_checker\\hashtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADE2B12-308B-4EEA-BB77-762361582BB5}|HASH_Checker.csproj|solutionrelative:hashtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HASH_Checker",
+              "DocumentMoniker": "D:\\Programming Projects\\HASH_Checker\\HASH_Checker.csproj",
+              "RelativeDocumentMoniker": "HASH_Checker.csproj",
+              "ToolTip": "D:\\Programming Projects\\HASH_Checker\\HASH_Checker.csproj",
+              "RelativeToolTip": "HASH_Checker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T13:24:25.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HashReaderForm.cs [Design]",
+              "DocumentMoniker": "D:\\Programming Projects\\HASH_Checker\\HashReaderForm.cs",
+              "RelativeDocumentMoniker": "HashReaderForm.cs",
+              "ToolTip": "D:\\Programming Projects\\HASH_Checker\\HashReaderForm.cs [Design]",
+              "RelativeToolTip": "HashReaderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:28:18.415Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HashReaderForm.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\HASH_Checker\\HashReaderForm.cs",
+              "RelativeDocumentMoniker": "HashReaderForm.cs",
+              "ToolTip": "D:\\Programming Projects\\HASH_Checker\\HashReaderForm.cs",
+              "RelativeToolTip": "HashReaderForm.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwHMAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:26:13.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HashObject.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\HASH_Checker\\HashObject.cs",
+              "RelativeDocumentMoniker": "HashObject.cs",
+              "ToolTip": "D:\\Programming Projects\\HASH_Checker\\HashObject.cs",
+              "RelativeToolTip": "HashObject.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywCQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:12:09.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HashType.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\HASH_Checker\\HashType.cs",
+              "RelativeDocumentMoniker": "HashType.cs",
+              "ToolTip": "D:\\Programming Projects\\HASH_Checker\\HashType.cs",
+              "RelativeToolTip": "HashType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:53:18.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HashReader.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\HASH_Checker\\HashReader.cs",
+              "RelativeDocumentMoniker": "HashReader.cs",
+              "ToolTip": "D:\\Programming Projects\\HASH_Checker\\HashReader.cs",
+              "RelativeToolTip": "HashReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:50:38.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

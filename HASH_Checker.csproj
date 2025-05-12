@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>SolarPH_Icon.ico</ApplicationIcon>
+    <Version>1.0.0</Version>
+    <Company>SolarPH / MARCsystems</Company>
+    <Product>MARCsystems: Hash Code Checker Tool</Product>
+    <AssemblyTitle>A simple Hash Code checking tool. Supports MD5, SHA1, SHA256 and SHA512</AssemblyTitle>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="SolarPH_Icon.ico" />
+  </ItemGroup>
+
+</Project>
